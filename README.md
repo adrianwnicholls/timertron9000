@@ -5,12 +5,3 @@ It's pretty much a minimal viable product for my own use only. I have ideas to i
 I didn't spend any time making it particularly pretty, I just needed a pragmatic solution. 
 
 
-Ideas:
-- Make the number of sets, length of rep, name of exercise/activity  configurable.
-- Make it log the run into a file, perhaps json, perhaps to google sheets.
-- Alternatively pixela might be a nice way to do it. ( I like the idea of this just for fun.)
-- Make the end of exercise/rep notification configurable. 
-- Have text to speach on activity name etc.
-- Have multiple lists of activity. 
-- Optional audio countdown timer. 
-- Android it. 
